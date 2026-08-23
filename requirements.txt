@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+transformers
+torch
+sentencepiece
+accelerate
+PyMuPDF
+pillow
+pytesseract
+python-multipart
+scikit-learn
+pandas
+joblib
+scipy

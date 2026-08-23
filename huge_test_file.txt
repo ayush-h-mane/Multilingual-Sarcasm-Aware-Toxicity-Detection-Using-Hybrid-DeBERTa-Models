@@ -1,0 +1,77 @@
+Project Communication Log - SentinelMind AI v2.0
+
+Today our development team discussed the multilingual NLP engine, sarcasm detection model, profanity filter, threat recognition module, OCR image extraction system, PDF parser and frontend dashboard enhancements.
+
+The project objective is to analyze text from uploaded files, chats, reports and communication records. It should identify harmful intent, abusive content, emotional tone, relationship patterns and summary generation.
+
+Meeting Notes:
+1. Improve summary generation so it explains the meaning instead of repeating raw input.
+2. Upgrade translation support for Kannada, Tamil, Hindi and mixed regional language text.
+3. Enhance sarcasm recognition for statements like wow great job ruining everything.
+4. Detect threatening language such as I will kill you, bomb threat, attack warning and violence indicators.
+5. Replace severe profanity words such as fuck, shit, bitch and asshole using censorship symbols.
+6. Add confidence score visualization in frontend.
+7. Support upload of txt, pdf, png, jpg and image files.
+8. Improve OCR extraction accuracy for screenshots and scanned notes.
+9. Optimize response time for large files.
+10. Make dashboard modern with blue and purple neon theme.
+
+Sample Chat Logs:
+
+My dad told me to focus on studies and complete assignments before the deadline.
+Wow great job breaking the whole project again.
+What the fuck is going on here.
+Hey bro lets go for cricket match tonight.
+Sir asked everyone to submit the mini project report tomorrow.
+I love this new user interface and dashboard.
+I hate the network issue and server crash.
+Tum acha kaam kiya but late aaye.
+Ninu tumba smart guru but late bandiya.
+Nee romba good but late vandha.
+
+Security Testing Data:
+
+There was a rumor about an attack near the old building.
+Someone said they would kill the manager tomorrow.
+The system must flag violent language immediately.
+Emergency teams should be informed if critical threats are detected.
+Suspicious phrases like bomb warning, shoot target, stab person or kidnap plan should be monitored.
+
+Academic Notes:
+
+Natural Language Processing is used to understand text, classify meaning and detect patterns in communication.
+Machine learning models can be trained to recognize sarcasm, toxicity, threats and sentiment.
+OCR technology converts printed or handwritten text from images into machine readable text.
+FastAPI backend enables high performance APIs for frontend integration.
+Modern HTML, CSS and JavaScript can build responsive dashboards.
+
+Business Use Cases:
+
+1. Social media moderation.
+2. Corporate communication monitoring.
+3. Student counseling support systems.
+4. Customer feedback analysis.
+5. Public safety alert platforms.
+6. Email toxicity screening.
+7. Multilingual chatbot enhancement.
+8. HR complaint text analysis.
+
+Large Data Repetition Section:
+
+Today the team reviewed project performance and deployment readiness.
+Today the team reviewed project performance and deployment readiness.
+Today the team reviewed project performance and deployment readiness.
+Today the team reviewed project performance and deployment readiness.
+Today the team reviewed project performance and deployment readiness.
+Today the team reviewed project performance and deployment readiness.
+Today the team reviewed project performance and deployment readiness.
+Today the team reviewed project performance and deployment readiness.
+Today the team reviewed project performance and deployment readiness.
+Today the team reviewed project performance and deployment readiness.
+
+The final system should be accurate, fast, user friendly and suitable for final year academic demonstration.
+The final system should support real time file upload testing and intelligent analytics.
+The final system should generate summaries, alerts and moderation outputs.
+The final system should represent a professional AI solution.
+
+End of Huge Test File.
