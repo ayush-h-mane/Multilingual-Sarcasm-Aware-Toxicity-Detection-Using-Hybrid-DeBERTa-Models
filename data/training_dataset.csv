@@ -1,0 +1,501 @@
+id,text,sarcasm,hybrid_emotion,risk_level,content_type
+1,I'm really happy you remembered my birthday after forgetting it for three years.,sarcastic,joy_disappointment,low,sarcasm
+2,"Wow, excellent work deleting the backup right before the presentation.",sarcastic,anger_disappointment,medium,sarcasm
+3,I'm so proud of you for arriving exactly when everyone else was leaving.,sarcastic,pride_frustration,low,sarcasm
+4,"Fantastic, another meeting that could have been an email.",sarcastic,annoyance,low,sarcasm
+5,I absolutely love waiting two hours for someone who said they would be here in ten minutes.,sarcastic,frustration,low,sarcasm
+6,"Great job, you crashed the server again. I couldn't be happier.",sarcastic,joy_anger,medium,sarcasm
+7,Thanks for ignoring all my warnings and breaking the entire project.,sarcastic,gratitude_anger,medium,sarcasm
+8,Perfect timing—you arrived just as the presentation ended.,sarcastic,relief_frustration,low,sarcasm
+9,Nothing makes a presentation better than a laptop updating itself five minutes before it starts.,sarcastic,humor_frustration,low,sarcasm
+10,"Yes, deleting the only backup was obviously the safest decision.",sarcastic,confidence_anger,medium,sarcasm
+11,I am extremely happy that our team completed the project successfully.,not_sarcastic,joy_pride,low,safe
+12,"I am angry about what happened, but relieved that nobody was seriously hurt.",not_sarcastic,anger_relief,medium,safe
+13,"I'm scared about the exam, but I feel confident because I prepared well.",not_sarcastic,fear_confidence,low,safe
+14,"I am disappointed with the result, although I am proud of the effort everyone made.",not_sarcastic,disappointment_pride,low,safe
+15,"I was nervous before the presentation, but now I feel relieved and excited.",not_sarcastic,fear_relief_joy,low,safe
+16,"I am frustrated by the delay, but grateful that the team kept working.",not_sarcastic,frustration_gratitude,low,safe
+17,"I feel sad about leaving college, yet I am excited about the future.",not_sarcastic,sadness_anticipation,low,safe
+18,I was surprised by the result and genuinely happy with the outcome.,not_sarcastic,surprise_joy,low,safe
+19,"I am worried about the problem, but hopeful that we can solve it.",not_sarcastic,fear_hope,low,safe
+20,"I am upset about the mistake, but thankful that we caught it early.",not_sarcastic,anger_gratitude,low,safe
+21,"Maga, project super agide, I am really happy with the result.",not_sarcastic,joy_pride,low,safe
+22,"Wow maga, database delete maadi great job anta helthiya?",sarcastic,anger_humor,medium,sarcasm
+23,"Ivattu presentation chennagittu, but I was nervous before starting.",not_sarcastic,joy_fear,low,safe
+24,"Bhai, kya amazing work kiya hai, server crash kar diya!",sarcastic,anger_humor,medium,sarcasm
+25,Mujhe bahut khushi hai ki humne project complete kiya.,not_sarcastic,joy_pride,low,safe
+26,"Great job bhai, pura project delete karke ab celebration karte hain.",sarcastic,anger_humor,medium,sarcasm
+27,"Avanu help madidru, so I am grateful and relieved.",not_sarcastic,gratitude_relief,low,safe
+28,"Super work maga, deadline miss maadi full marks expect madtidya!",sarcastic,frustration_humor,low,sarcasm
+29,"Enakku romba happy ah irukku, project successful ah complete aayiduchu.",not_sarcastic,joy_pride,low,safe
+30,"Project-a delete pannitu, super job nu sollariya? Amazing!",sarcastic,anger_humor,medium,sarcasm
+31,The team completed the project on time and everyone feels proud.,not_sarcastic,joy,low,safe
+32,I am excited to learn a new machine learning technique this semester.,not_sarcastic,confidence,low,safe
+33,Our presentation went well and the feedback was encouraging.,not_sarcastic,relief,low,safe
+34,The weather is pleasant and I am enjoying the evening with friends.,not_sarcastic,hope,low,safe
+35,"I feel nervous about the interview, but I am prepared to do my best.",not_sarcastic,disappointment,low,safe
+36,We solved the software bug after several hours of debugging.,not_sarcastic,joy,low,safe
+37,I am grateful to my teammates for helping with the project.,not_sarcastic,confidence,low,safe
+38,"The result was unexpected, but I am satisfied with our progress.",not_sarcastic,relief,low,safe
+39,"I am disappointed that the event was cancelled, but I understand the reason.",not_sarcastic,hope,low,safe
+40,The new feature works correctly after the final round of testing.,not_sarcastic,disappointment,low,safe
+41,The team completed the project on time and everyone feels proud during our test case 11.,not_sarcastic,joy,low,safe
+42,I am excited to learn a new machine learning technique this semester during our test case 12.,not_sarcastic,confidence,low,safe
+43,Our presentation went well and the feedback was encouraging during our test case 13.,not_sarcastic,relief,low,safe
+44,The weather is pleasant and I am enjoying the evening with friends during our test case 14.,not_sarcastic,hope,low,safe
+45,"I feel nervous about the interview, but I am prepared to do my best during our test case 15.",not_sarcastic,disappointment,low,safe
+46,We solved the software bug after several hours of debugging during our test case 16.,not_sarcastic,joy,low,safe
+47,I am grateful to my teammates for helping with the project during our test case 17.,not_sarcastic,confidence,low,safe
+48,"The result was unexpected, but I am satisfied with our progress during our test case 18.",not_sarcastic,relief,low,safe
+49,"I am disappointed that the event was cancelled, but I understand the reason during our test case 19.",not_sarcastic,hope,low,safe
+50,The new feature works correctly after the final round of testing during our test case 20.,not_sarcastic,disappointment,low,safe
+51,The team completed the project on time and everyone feels proud during our test case 21.,not_sarcastic,joy,low,safe
+52,I am excited to learn a new machine learning technique this semester during our test case 22.,not_sarcastic,confidence,low,safe
+53,Our presentation went well and the feedback was encouraging during our test case 23.,not_sarcastic,relief,low,safe
+54,The weather is pleasant and I am enjoying the evening with friends during our test case 24.,not_sarcastic,hope,low,safe
+55,"I feel nervous about the interview, but I am prepared to do my best during our test case 25.",not_sarcastic,disappointment,low,safe
+56,We solved the software bug after several hours of debugging during our test case 26.,not_sarcastic,joy,low,safe
+57,I am grateful to my teammates for helping with the project during our test case 27.,not_sarcastic,confidence,low,safe
+58,"The result was unexpected, but I am satisfied with our progress during our test case 28.",not_sarcastic,relief,low,safe
+59,"I am disappointed that the event was cancelled, but I understand the reason during our test case 29.",not_sarcastic,hope,low,safe
+60,The new feature works correctly after the final round of testing during our test case 30.,not_sarcastic,disappointment,low,safe
+61,The team completed the project on time and everyone feels proud during our test case 31.,not_sarcastic,joy,low,safe
+62,I am excited to learn a new machine learning technique this semester during our test case 32.,not_sarcastic,confidence,low,safe
+63,Our presentation went well and the feedback was encouraging during our test case 33.,not_sarcastic,relief,low,safe
+64,The weather is pleasant and I am enjoying the evening with friends during our test case 34.,not_sarcastic,hope,low,safe
+65,"I feel nervous about the interview, but I am prepared to do my best during our test case 35.",not_sarcastic,disappointment,low,safe
+66,We solved the software bug after several hours of debugging during our test case 36.,not_sarcastic,joy,low,safe
+67,I am grateful to my teammates for helping with the project during our test case 37.,not_sarcastic,confidence,low,safe
+68,"The result was unexpected, but I am satisfied with our progress during our test case 38.",not_sarcastic,relief,low,safe
+69,"I am disappointed that the event was cancelled, but I understand the reason during our test case 39.",not_sarcastic,hope,low,safe
+70,The new feature works correctly after the final round of testing during our test case 40.,not_sarcastic,disappointment,low,safe
+71,The team completed the project on time and everyone feels proud during our test case 41.,not_sarcastic,joy,low,safe
+72,I am excited to learn a new machine learning technique this semester during our test case 42.,not_sarcastic,confidence,low,safe
+73,Our presentation went well and the feedback was encouraging during our test case 43.,not_sarcastic,relief,low,safe
+74,The weather is pleasant and I am enjoying the evening with friends during our test case 44.,not_sarcastic,hope,low,safe
+75,"I feel nervous about the interview, but I am prepared to do my best during our test case 45.",not_sarcastic,disappointment,low,safe
+76,We solved the software bug after several hours of debugging during our test case 46.,not_sarcastic,joy,low,safe
+77,I am grateful to my teammates for helping with the project during our test case 47.,not_sarcastic,confidence,low,safe
+78,"The result was unexpected, but I am satisfied with our progress during our test case 48.",not_sarcastic,relief,low,safe
+79,"I am disappointed that the event was cancelled, but I understand the reason during our test case 49.",not_sarcastic,hope,low,safe
+80,The new feature works correctly after the final round of testing during our test case 50.,not_sarcastic,disappointment,low,safe
+81,The team completed the project on time and everyone feels proud during our test case 51.,not_sarcastic,joy,low,safe
+82,I am excited to learn a new machine learning technique this semester during our test case 52.,not_sarcastic,confidence,low,safe
+83,Our presentation went well and the feedback was encouraging during our test case 53.,not_sarcastic,relief,low,safe
+84,The weather is pleasant and I am enjoying the evening with friends during our test case 54.,not_sarcastic,hope,low,safe
+85,"I feel nervous about the interview, but I am prepared to do my best during our test case 55.",not_sarcastic,disappointment,low,safe
+86,We solved the software bug after several hours of debugging during our test case 56.,not_sarcastic,joy,low,safe
+87,I am grateful to my teammates for helping with the project during our test case 57.,not_sarcastic,confidence,low,safe
+88,"The result was unexpected, but I am satisfied with our progress during our test case 58.",not_sarcastic,relief,low,safe
+89,"I am disappointed that the event was cancelled, but I understand the reason during our test case 59.",not_sarcastic,hope,low,safe
+90,The new feature works correctly after the final round of testing during our test case 60.,not_sarcastic,disappointment,low,safe
+91,The team completed the project on time and everyone feels proud during our test case 61.,not_sarcastic,joy,low,safe
+92,I am excited to learn a new machine learning technique this semester during our test case 62.,not_sarcastic,confidence,low,safe
+93,Our presentation went well and the feedback was encouraging during our test case 63.,not_sarcastic,relief,low,safe
+94,The weather is pleasant and I am enjoying the evening with friends during our test case 64.,not_sarcastic,hope,low,safe
+95,"I feel nervous about the interview, but I am prepared to do my best during our test case 65.",not_sarcastic,disappointment,low,safe
+96,We solved the software bug after several hours of debugging during our test case 66.,not_sarcastic,joy,low,safe
+97,I am grateful to my teammates for helping with the project during our test case 67.,not_sarcastic,confidence,low,safe
+98,"The result was unexpected, but I am satisfied with our progress during our test case 68.",not_sarcastic,relief,low,safe
+99,"I am disappointed that the event was cancelled, but I understand the reason during our test case 69.",not_sarcastic,hope,low,safe
+100,The new feature works correctly after the final round of testing during our test case 70.,not_sarcastic,disappointment,low,safe
+101,The team completed the project on time and everyone feels proud during our test case 71.,not_sarcastic,joy,low,safe
+102,I am excited to learn a new machine learning technique this semester during our test case 72.,not_sarcastic,confidence,low,safe
+103,Our presentation went well and the feedback was encouraging during our test case 73.,not_sarcastic,relief,low,safe
+104,The weather is pleasant and I am enjoying the evening with friends during our test case 74.,not_sarcastic,hope,low,safe
+105,"I feel nervous about the interview, but I am prepared to do my best during our test case 75.",not_sarcastic,disappointment,low,safe
+106,We solved the software bug after several hours of debugging during our test case 76.,not_sarcastic,joy,low,safe
+107,I am grateful to my teammates for helping with the project during our test case 77.,not_sarcastic,confidence,low,safe
+108,"The result was unexpected, but I am satisfied with our progress during our test case 78.",not_sarcastic,relief,low,safe
+109,"I am disappointed that the event was cancelled, but I understand the reason during our test case 79.",not_sarcastic,hope,low,safe
+110,The new feature works correctly after the final round of testing during our test case 80.,not_sarcastic,disappointment,low,safe
+111,The team completed the project on time and everyone feels proud during our test case 81.,not_sarcastic,joy,low,safe
+112,I am excited to learn a new machine learning technique this semester during our test case 82.,not_sarcastic,confidence,low,safe
+113,Our presentation went well and the feedback was encouraging during our test case 83.,not_sarcastic,relief,low,safe
+114,The weather is pleasant and I am enjoying the evening with friends during our test case 84.,not_sarcastic,hope,low,safe
+115,"I feel nervous about the interview, but I am prepared to do my best during our test case 85.",not_sarcastic,disappointment,low,safe
+116,We solved the software bug after several hours of debugging during our test case 86.,not_sarcastic,joy,low,safe
+117,I am grateful to my teammates for helping with the project during our test case 87.,not_sarcastic,confidence,low,safe
+118,"The result was unexpected, but I am satisfied with our progress during our test case 88.",not_sarcastic,relief,low,safe
+119,"I am disappointed that the event was cancelled, but I understand the reason during our test case 89.",not_sarcastic,hope,low,safe
+120,The new feature works correctly after the final round of testing during our test case 90.,not_sarcastic,disappointment,low,safe
+121,The team completed the project on time and everyone feels proud during our test case 91.,not_sarcastic,joy,low,safe
+122,I am excited to learn a new machine learning technique this semester during our test case 92.,not_sarcastic,confidence,low,safe
+123,Our presentation went well and the feedback was encouraging during our test case 93.,not_sarcastic,relief,low,safe
+124,The weather is pleasant and I am enjoying the evening with friends during our test case 94.,not_sarcastic,hope,low,safe
+125,"I feel nervous about the interview, but I am prepared to do my best during our test case 95.",not_sarcastic,disappointment,low,safe
+126,We solved the software bug after several hours of debugging during our test case 96.,not_sarcastic,joy,low,safe
+127,I am grateful to my teammates for helping with the project during our test case 97.,not_sarcastic,confidence,low,safe
+128,"The result was unexpected, but I am satisfied with our progress during our test case 98.",not_sarcastic,relief,low,safe
+129,"I am disappointed that the event was cancelled, but I understand the reason during our test case 99.",not_sarcastic,hope,low,safe
+130,The new feature works correctly after the final round of testing during our test case 100.,not_sarcastic,disappointment,low,safe
+131,The team completed the project on time and everyone feels proud during our test case 101.,not_sarcastic,joy,low,safe
+132,I am excited to learn a new machine learning technique this semester during our test case 102.,not_sarcastic,confidence,low,safe
+133,Our presentation went well and the feedback was encouraging during our test case 103.,not_sarcastic,relief,low,safe
+134,The weather is pleasant and I am enjoying the evening with friends during our test case 104.,not_sarcastic,hope,low,safe
+135,"I feel nervous about the interview, but I am prepared to do my best during our test case 105.",not_sarcastic,disappointment,low,safe
+136,We solved the software bug after several hours of debugging during our test case 106.,not_sarcastic,joy,low,safe
+137,I am grateful to my teammates for helping with the project during our test case 107.,not_sarcastic,confidence,low,safe
+138,"The result was unexpected, but I am satisfied with our progress during our test case 108.",not_sarcastic,relief,low,safe
+139,"I am disappointed that the event was cancelled, but I understand the reason during our test case 109.",not_sarcastic,hope,low,safe
+140,The new feature works correctly after the final round of testing during our test case 110.,not_sarcastic,disappointment,low,safe
+141,The team completed the project on time and everyone feels proud during our test case 111.,not_sarcastic,joy,low,safe
+142,I am excited to learn a new machine learning technique this semester during our test case 112.,not_sarcastic,confidence,low,safe
+143,Our presentation went well and the feedback was encouraging during our test case 113.,not_sarcastic,relief,low,safe
+144,The weather is pleasant and I am enjoying the evening with friends during our test case 114.,not_sarcastic,hope,low,safe
+145,"I feel nervous about the interview, but I am prepared to do my best during our test case 115.",not_sarcastic,disappointment,low,safe
+146,We solved the software bug after several hours of debugging during our test case 116.,not_sarcastic,joy,low,safe
+147,I am grateful to my teammates for helping with the project during our test case 117.,not_sarcastic,confidence,low,safe
+148,"The result was unexpected, but I am satisfied with our progress during our test case 118.",not_sarcastic,relief,low,safe
+149,"I am disappointed that the event was cancelled, but I understand the reason during our test case 119.",not_sarcastic,hope,low,safe
+150,The new feature works correctly after the final round of testing during our test case 120.,not_sarcastic,disappointment,low,safe
+151,The team completed the project on time and everyone feels proud during our test case 121.,not_sarcastic,joy,low,safe
+152,I am excited to learn a new machine learning technique this semester during our test case 122.,not_sarcastic,confidence,low,safe
+153,Our presentation went well and the feedback was encouraging during our test case 123.,not_sarcastic,relief,low,safe
+154,The weather is pleasant and I am enjoying the evening with friends during our test case 124.,not_sarcastic,hope,low,safe
+155,"I feel nervous about the interview, but I am prepared to do my best during our test case 125.",not_sarcastic,disappointment,low,safe
+156,We solved the software bug after several hours of debugging during our test case 126.,not_sarcastic,joy,low,safe
+157,I am grateful to my teammates for helping with the project during our test case 127.,not_sarcastic,confidence,low,safe
+158,"The result was unexpected, but I am satisfied with our progress during our test case 128.",not_sarcastic,relief,low,safe
+159,"I am disappointed that the event was cancelled, but I understand the reason during our test case 129.",not_sarcastic,hope,low,safe
+160,The new feature works correctly after the final round of testing during our test case 130.,not_sarcastic,disappointment,low,safe
+161,The team completed the project on time and everyone feels proud during our test case 131.,not_sarcastic,joy,low,safe
+162,I am excited to learn a new machine learning technique this semester during our test case 132.,not_sarcastic,confidence,low,safe
+163,Our presentation went well and the feedback was encouraging during our test case 133.,not_sarcastic,relief,low,safe
+164,The weather is pleasant and I am enjoying the evening with friends during our test case 134.,not_sarcastic,hope,low,safe
+165,"I feel nervous about the interview, but I am prepared to do my best during our test case 135.",not_sarcastic,disappointment,low,safe
+166,We solved the software bug after several hours of debugging during our test case 136.,not_sarcastic,joy,low,safe
+167,I am grateful to my teammates for helping with the project during our test case 137.,not_sarcastic,confidence,low,safe
+168,"The result was unexpected, but I am satisfied with our progress during our test case 138.",not_sarcastic,relief,low,safe
+169,"I am disappointed that the event was cancelled, but I understand the reason during our test case 139.",not_sarcastic,hope,low,safe
+170,The new feature works correctly after the final round of testing during our test case 140.,not_sarcastic,disappointment,low,safe
+171,The team completed the project on time and everyone feels proud during our test case 141.,not_sarcastic,joy,low,safe
+172,I am excited to learn a new machine learning technique this semester during our test case 142.,not_sarcastic,confidence,low,safe
+173,Our presentation went well and the feedback was encouraging during our test case 143.,not_sarcastic,relief,low,safe
+174,The weather is pleasant and I am enjoying the evening with friends during our test case 144.,not_sarcastic,hope,low,safe
+175,"I feel nervous about the interview, but I am prepared to do my best during our test case 145.",not_sarcastic,disappointment,low,safe
+176,We solved the software bug after several hours of debugging during our test case 146.,not_sarcastic,joy,low,safe
+177,I am grateful to my teammates for helping with the project during our test case 147.,not_sarcastic,confidence,low,safe
+178,"The result was unexpected, but I am satisfied with our progress during our test case 148.",not_sarcastic,relief,low,safe
+179,"I am disappointed that the event was cancelled, but I understand the reason during our test case 149.",not_sarcastic,hope,low,safe
+180,The new feature works correctly after the final round of testing during our test case 150.,not_sarcastic,disappointment,low,safe
+181,The team completed the project on time and everyone feels proud during our test case 151.,not_sarcastic,joy,low,safe
+182,I am excited to learn a new machine learning technique this semester during our test case 152.,not_sarcastic,confidence,low,safe
+183,Our presentation went well and the feedback was encouraging during our test case 153.,not_sarcastic,relief,low,safe
+184,The weather is pleasant and I am enjoying the evening with friends during our test case 154.,not_sarcastic,hope,low,safe
+185,"I feel nervous about the interview, but I am prepared to do my best during our test case 155.",not_sarcastic,disappointment,low,safe
+186,We solved the software bug after several hours of debugging during our test case 156.,not_sarcastic,joy,low,safe
+187,I am grateful to my teammates for helping with the project during our test case 157.,not_sarcastic,confidence,low,safe
+188,"The result was unexpected, but I am satisfied with our progress during our test case 158.",not_sarcastic,relief,low,safe
+189,"I am disappointed that the event was cancelled, but I understand the reason during our test case 159.",not_sarcastic,hope,low,safe
+190,The new feature works correctly after the final round of testing during our test case 160.,not_sarcastic,disappointment,low,safe
+191,"Oh wonderful, you forgot the deadline again.",sarcastic,frustration,medium,sarcasm
+192,"Fantastic, the backup disappeared before submission.",sarcastic,anger,low,sarcasm
+193,"What an amazing idea, you changed the code without telling anyone.",sarcastic,disappointment,low,sarcasm
+194,"Perfect, the server crashed during the demo.",sarcastic,humor_frustration,low,sarcasm
+195,"Brilliant, the meeting started thirty minutes late.",sarcastic,frustration,low,sarcasm
+196,I couldn't be happier that the presentation file became corrupted.,sarcastic,anger,medium,sarcasm
+197,Clearly the best decision was to you ignored the instructions.,sarcastic,disappointment,low,sarcasm
+198,Thanks a lot for the application stopped working during testing.,sarcastic,humor_frustration,low,sarcasm
+199,"Oh wonderful, you forgot the deadline again.",sarcastic,frustration,low,sarcasm
+200,"Fantastic, the backup disappeared before submission.",sarcastic,anger,low,sarcasm
+201,"What an amazing idea, you changed the code without telling anyone.",sarcastic,disappointment,medium,sarcasm
+202,"Perfect, the server crashed during the demo.",sarcastic,humor_frustration,low,sarcasm
+203,"Brilliant, the meeting started thirty minutes late.",sarcastic,frustration,low,sarcasm
+204,I couldn't be happier that the presentation file became corrupted.,sarcastic,anger,low,sarcasm
+205,Clearly the best decision was to you ignored the instructions.,sarcastic,disappointment,low,sarcasm
+206,Thanks a lot for the application stopped working during testing.,sarcastic,humor_frustration,medium,sarcasm
+207,"Oh wonderful, you forgot the deadline again.",sarcastic,frustration,low,sarcasm
+208,"Fantastic, the backup disappeared before submission.",sarcastic,anger,low,sarcasm
+209,"What an amazing idea, you changed the code without telling anyone.",sarcastic,disappointment,low,sarcasm
+210,"Perfect, the server crashed during the demo.",sarcastic,humor_frustration,low,sarcasm
+211,"Brilliant, the meeting started thirty minutes late.",sarcastic,frustration,medium,sarcasm
+212,I couldn't be happier that the presentation file became corrupted.,sarcastic,anger,low,sarcasm
+213,Clearly the best decision was to you ignored the instructions.,sarcastic,disappointment,low,sarcasm
+214,Thanks a lot for the application stopped working during testing.,sarcastic,humor_frustration,low,sarcasm
+215,"Oh wonderful, you forgot the deadline again.",sarcastic,frustration,low,sarcasm
+216,"Fantastic, the backup disappeared before submission.",sarcastic,anger,medium,sarcasm
+217,"What an amazing idea, you changed the code without telling anyone.",sarcastic,disappointment,low,sarcasm
+218,"Perfect, the server crashed during the demo.",sarcastic,humor_frustration,low,sarcasm
+219,"Brilliant, the meeting started thirty minutes late.",sarcastic,frustration,low,sarcasm
+220,I couldn't be happier that the presentation file became corrupted.,sarcastic,anger,low,sarcasm
+221,Clearly the best decision was to you ignored the instructions.,sarcastic,disappointment,medium,sarcasm
+222,Thanks a lot for the application stopped working during testing.,sarcastic,humor_frustration,low,sarcasm
+223,"Oh wonderful, you forgot the deadline again.",sarcastic,frustration,low,sarcasm
+224,"Fantastic, the backup disappeared before submission.",sarcastic,anger,low,sarcasm
+225,"What an amazing idea, you changed the code without telling anyone.",sarcastic,disappointment,low,sarcasm
+226,"Perfect, the server crashed during the demo.",sarcastic,humor_frustration,medium,sarcasm
+227,"Brilliant, the meeting started thirty minutes late.",sarcastic,frustration,low,sarcasm
+228,I couldn't be happier that the presentation file became corrupted.,sarcastic,anger,low,sarcasm
+229,Clearly the best decision was to you ignored the instructions.,sarcastic,disappointment,low,sarcasm
+230,Thanks a lot for the application stopped working during testing.,sarcastic,humor_frustration,low,sarcasm
+231,"Oh wonderful, you forgot the deadline again.",sarcastic,frustration,medium,sarcasm
+232,"Fantastic, the backup disappeared before submission.",sarcastic,anger,low,sarcasm
+233,"What an amazing idea, you changed the code without telling anyone.",sarcastic,disappointment,low,sarcasm
+234,"Perfect, the server crashed during the demo.",sarcastic,humor_frustration,low,sarcasm
+235,"Brilliant, the meeting started thirty minutes late.",sarcastic,frustration,low,sarcasm
+236,I couldn't be happier that the presentation file became corrupted.,sarcastic,anger,medium,sarcasm
+237,Clearly the best decision was to you ignored the instructions.,sarcastic,disappointment,low,sarcasm
+238,Thanks a lot for the application stopped working during testing.,sarcastic,humor_frustration,low,sarcasm
+239,"Oh wonderful, you forgot the deadline again.",sarcastic,frustration,low,sarcasm
+240,"Fantastic, the backup disappeared before submission.",sarcastic,anger,low,sarcasm
+241,"What an amazing idea, you changed the code without telling anyone.",sarcastic,disappointment,medium,sarcasm
+242,"Perfect, the server crashed during the demo.",sarcastic,humor_frustration,low,sarcasm
+243,"Brilliant, the meeting started thirty minutes late.",sarcastic,frustration,low,sarcasm
+244,I couldn't be happier that the presentation file became corrupted.,sarcastic,anger,low,sarcasm
+245,Clearly the best decision was to you ignored the instructions.,sarcastic,disappointment,low,sarcasm
+246,Thanks a lot for the application stopped working during testing.,sarcastic,humor_frustration,medium,sarcasm
+247,"Oh wonderful, you forgot the deadline again.",sarcastic,frustration,low,sarcasm
+248,"Fantastic, the backup disappeared before submission.",sarcastic,anger,low,sarcasm
+249,"What an amazing idea, you changed the code without telling anyone.",sarcastic,disappointment,low,sarcasm
+250,"Perfect, the server crashed during the demo.",sarcastic,humor_frustration,low,sarcasm
+251,"Brilliant, the meeting started thirty minutes late.",sarcastic,frustration,medium,sarcasm
+252,I couldn't be happier that the presentation file became corrupted.,sarcastic,anger,low,sarcasm
+253,Clearly the best decision was to you ignored the instructions.,sarcastic,disappointment,low,sarcasm
+254,Thanks a lot for the application stopped working during testing.,sarcastic,humor_frustration,low,sarcasm
+255,"Oh wonderful, you forgot the deadline again.",sarcastic,frustration,low,sarcasm
+256,"Fantastic, the backup disappeared before submission.",sarcastic,anger,medium,sarcasm
+257,"What an amazing idea, you changed the code without telling anyone.",sarcastic,disappointment,low,sarcasm
+258,"Perfect, the server crashed during the demo.",sarcastic,humor_frustration,low,sarcasm
+259,"Brilliant, the meeting started thirty minutes late.",sarcastic,frustration,low,sarcasm
+260,I couldn't be happier that the presentation file became corrupted.,sarcastic,anger,low,sarcasm
+261,Clearly the best decision was to you ignored the instructions.,sarcastic,disappointment,medium,sarcasm
+262,Thanks a lot for the application stopped working during testing.,sarcastic,humor_frustration,low,sarcasm
+263,"Oh wonderful, you forgot the deadline again.",sarcastic,frustration,low,sarcasm
+264,"Fantastic, the backup disappeared before submission.",sarcastic,anger,low,sarcasm
+265,"What an amazing idea, you changed the code without telling anyone.",sarcastic,disappointment,low,sarcasm
+266,"Perfect, the server crashed during the demo.",sarcastic,humor_frustration,medium,sarcasm
+267,"Brilliant, the meeting started thirty minutes late.",sarcastic,frustration,low,sarcasm
+268,I couldn't be happier that the presentation file became corrupted.,sarcastic,anger,low,sarcasm
+269,Clearly the best decision was to you ignored the instructions.,sarcastic,disappointment,low,sarcasm
+270,Thanks a lot for the application stopped working during testing.,sarcastic,humor_frustration,low,sarcasm
+271,"Oh wonderful, you forgot the deadline again.",sarcastic,frustration,medium,sarcasm
+272,"Fantastic, the backup disappeared before submission.",sarcastic,anger,low,sarcasm
+273,"What an amazing idea, you changed the code without telling anyone.",sarcastic,disappointment,low,sarcasm
+274,"Perfect, the server crashed during the demo.",sarcastic,humor_frustration,low,sarcasm
+275,"Brilliant, the meeting started thirty minutes late.",sarcastic,frustration,low,sarcasm
+276,I couldn't be happier that the presentation file became corrupted.,sarcastic,anger,medium,sarcasm
+277,Clearly the best decision was to you ignored the instructions.,sarcastic,disappointment,low,sarcasm
+278,Thanks a lot for the application stopped working during testing.,sarcastic,humor_frustration,low,sarcasm
+279,"Oh wonderful, you forgot the deadline again.",sarcastic,frustration,low,sarcasm
+280,"Fantastic, the backup disappeared before submission.",sarcastic,anger,low,sarcasm
+281,"What an amazing idea, you changed the code without telling anyone.",sarcastic,disappointment,medium,sarcasm
+282,"Perfect, the server crashed during the demo.",sarcastic,humor_frustration,low,sarcasm
+283,"Brilliant, the meeting started thirty minutes late.",sarcastic,frustration,low,sarcasm
+284,I couldn't be happier that the presentation file became corrupted.,sarcastic,anger,low,sarcasm
+285,Clearly the best decision was to you ignored the instructions.,sarcastic,disappointment,low,sarcasm
+286,Thanks a lot for the application stopped working during testing.,sarcastic,humor_frustration,medium,sarcasm
+287,"Oh wonderful, you forgot the deadline again.",sarcastic,frustration,low,sarcasm
+288,"Fantastic, the backup disappeared before submission.",sarcastic,anger,low,sarcasm
+289,"What an amazing idea, you changed the code without telling anyone.",sarcastic,disappointment,low,sarcasm
+290,"Perfect, the server crashed during the demo.",sarcastic,humor_frustration,low,sarcasm
+291,"Brilliant, the meeting started thirty minutes late.",sarcastic,frustration,medium,sarcasm
+292,I couldn't be happier that the presentation file became corrupted.,sarcastic,anger,low,sarcasm
+293,Clearly the best decision was to you ignored the instructions.,sarcastic,disappointment,low,sarcasm
+294,Thanks a lot for the application stopped working during testing.,sarcastic,humor_frustration,low,sarcasm
+295,"Oh wonderful, you forgot the deadline again.",sarcastic,frustration,low,sarcasm
+296,"Fantastic, the backup disappeared before submission.",sarcastic,anger,medium,sarcasm
+297,"What an amazing idea, you changed the code without telling anyone.",sarcastic,disappointment,low,sarcasm
+298,"Perfect, the server crashed during the demo.",sarcastic,humor_frustration,low,sarcasm
+299,"Brilliant, the meeting started thirty minutes late.",sarcastic,frustration,low,sarcasm
+300,I couldn't be happier that the presentation file became corrupted.,sarcastic,anger,low,sarcasm
+301,Clearly the best decision was to you ignored the instructions.,sarcastic,disappointment,medium,sarcasm
+302,Thanks a lot for the application stopped working during testing.,sarcastic,humor_frustration,low,sarcasm
+303,"Oh wonderful, you forgot the deadline again.",sarcastic,frustration,low,sarcasm
+304,"Fantastic, the backup disappeared before submission.",sarcastic,anger,low,sarcasm
+305,"What an amazing idea, you changed the code without telling anyone.",sarcastic,disappointment,low,sarcasm
+306,"Perfect, the server crashed during the demo.",sarcastic,humor_frustration,medium,sarcasm
+307,"Brilliant, the meeting started thirty minutes late.",sarcastic,frustration,low,sarcasm
+308,I couldn't be happier that the presentation file became corrupted.,sarcastic,anger,low,sarcasm
+309,Clearly the best decision was to you ignored the instructions.,sarcastic,disappointment,low,sarcasm
+310,Thanks a lot for the application stopped working during testing.,sarcastic,humor_frustration,low,sarcasm
+311,"If you come near me again, I will seriously hurt you.",not_sarcastic,fear,high,threat
+312,He threatened to attack the person who reported him.,not_sarcastic,anger,critical,threat
+313,Stop sending threats or I will report the messages to the authorities.,not_sarcastic,fear_anger,critical,threat
+314,"I am furious, but I will not hurt anyone; I will handle this through proper channels.",not_sarcastic,relief,high,threat
+315,Someone sent a message threatening violence against the team.,not_sarcastic,fear,critical,threat
+316,Do not threaten me; we can resolve this disagreement peacefully.,not_sarcastic,anger,critical,threat
+317,He said he would harm the group if they refused to cooperate.,not_sarcastic,fear_anger,high,threat
+318,I was frightened by the threatening message I received yesterday.,not_sarcastic,relief,critical,threat
+319,"If you come near me again, I will seriously hurt you Please take this message seriously in case 9.",not_sarcastic,fear,critical,threat
+320,He threatened to attack the person who reported him Please take this message seriously in case 10.,not_sarcastic,anger,high,threat
+321,Stop sending threats or I will report the messages to the authorities Please take this message seriously in case 11.,not_sarcastic,fear_anger,critical,threat
+322,"I am furious, but I will not hurt anyone; I will handle this through proper channels Please take this message seriously in case 12.",not_sarcastic,relief,critical,threat
+323,Someone sent a message threatening violence against the team Please take this message seriously in case 13.,not_sarcastic,fear,high,threat
+324,Do not threaten me; we can resolve this disagreement peacefully Please take this message seriously in case 14.,not_sarcastic,anger,critical,threat
+325,He said he would harm the group if they refused to cooperate Please take this message seriously in case 15.,not_sarcastic,fear_anger,critical,threat
+326,I was frightened by the threatening message I received yesterday Please take this message seriously in case 16.,not_sarcastic,relief,high,threat
+327,"If you come near me again, I will seriously hurt you Please take this message seriously in case 17.",not_sarcastic,fear,critical,threat
+328,He threatened to attack the person who reported him Please take this message seriously in case 18.,not_sarcastic,anger,critical,threat
+329,Stop sending threats or I will report the messages to the authorities Please take this message seriously in case 19.,not_sarcastic,fear_anger,high,threat
+330,"I am furious, but I will not hurt anyone; I will handle this through proper channels Please take this message seriously in case 20.",not_sarcastic,relief,critical,threat
+331,Someone sent a message threatening violence against the team Please take this message seriously in case 21.,not_sarcastic,fear,critical,threat
+332,Do not threaten me; we can resolve this disagreement peacefully Please take this message seriously in case 22.,not_sarcastic,anger,high,threat
+333,He said he would harm the group if they refused to cooperate Please take this message seriously in case 23.,not_sarcastic,fear_anger,critical,threat
+334,I was frightened by the threatening message I received yesterday Please take this message seriously in case 24.,not_sarcastic,relief,critical,threat
+335,"If you come near me again, I will seriously hurt you Please take this message seriously in case 25.",not_sarcastic,fear,high,threat
+336,He threatened to attack the person who reported him Please take this message seriously in case 26.,not_sarcastic,anger,critical,threat
+337,Stop sending threats or I will report the messages to the authorities Please take this message seriously in case 27.,not_sarcastic,fear_anger,critical,threat
+338,"I am furious, but I will not hurt anyone; I will handle this through proper channels Please take this message seriously in case 28.",not_sarcastic,relief,high,threat
+339,Someone sent a message threatening violence against the team Please take this message seriously in case 29.,not_sarcastic,fear,critical,threat
+340,Do not threaten me; we can resolve this disagreement peacefully Please take this message seriously in case 30.,not_sarcastic,anger,critical,threat
+341,He said he would harm the group if they refused to cooperate Please take this message seriously in case 31.,not_sarcastic,fear_anger,high,threat
+342,I was frightened by the threatening message I received yesterday Please take this message seriously in case 32.,not_sarcastic,relief,critical,threat
+343,"If you come near me again, I will seriously hurt you Please take this message seriously in case 33.",not_sarcastic,fear,critical,threat
+344,He threatened to attack the person who reported him Please take this message seriously in case 34.,not_sarcastic,anger,high,threat
+345,Stop sending threats or I will report the messages to the authorities Please take this message seriously in case 35.,not_sarcastic,fear_anger,critical,threat
+346,"I am furious, but I will not hurt anyone; I will handle this through proper channels Please take this message seriously in case 36.",not_sarcastic,relief,critical,threat
+347,Someone sent a message threatening violence against the team Please take this message seriously in case 37.,not_sarcastic,fear,high,threat
+348,Do not threaten me; we can resolve this disagreement peacefully Please take this message seriously in case 38.,not_sarcastic,anger,critical,threat
+349,He said he would harm the group if they refused to cooperate Please take this message seriously in case 39.,not_sarcastic,fear_anger,critical,threat
+350,I was frightened by the threatening message I received yesterday Please take this message seriously in case 40.,not_sarcastic,relief,high,threat
+351,"If you come near me again, I will seriously hurt you Please take this message seriously in case 41.",not_sarcastic,fear,critical,threat
+352,He threatened to attack the person who reported him Please take this message seriously in case 42.,not_sarcastic,anger,critical,threat
+353,Stop sending threats or I will report the messages to the authorities Please take this message seriously in case 43.,not_sarcastic,fear_anger,high,threat
+354,"I am furious, but I will not hurt anyone; I will handle this through proper channels Please take this message seriously in case 44.",not_sarcastic,relief,critical,threat
+355,Someone sent a message threatening violence against the team Please take this message seriously in case 45.,not_sarcastic,fear,critical,threat
+356,Do not threaten me; we can resolve this disagreement peacefully Please take this message seriously in case 46.,not_sarcastic,anger,high,threat
+357,He said he would harm the group if they refused to cooperate Please take this message seriously in case 47.,not_sarcastic,fear_anger,critical,threat
+358,I was frightened by the threatening message I received yesterday Please take this message seriously in case 48.,not_sarcastic,relief,critical,threat
+359,"If you come near me again, I will seriously hurt you Please take this message seriously in case 49.",not_sarcastic,fear,high,threat
+360,He threatened to attack the person who reported him Please take this message seriously in case 50.,not_sarcastic,anger,critical,threat
+361,Stop sending threats or I will report the messages to the authorities Please take this message seriously in case 51.,not_sarcastic,fear_anger,critical,threat
+362,"I am furious, but I will not hurt anyone; I will handle this through proper channels Please take this message seriously in case 52.",not_sarcastic,relief,high,threat
+363,Someone sent a message threatening violence against the team Please take this message seriously in case 53.,not_sarcastic,fear,critical,threat
+364,Do not threaten me; we can resolve this disagreement peacefully Please take this message seriously in case 54.,not_sarcastic,anger,critical,threat
+365,He said he would harm the group if they refused to cooperate Please take this message seriously in case 55.,not_sarcastic,fear_anger,high,threat
+366,I was frightened by the threatening message I received yesterday Please take this message seriously in case 56.,not_sarcastic,relief,critical,threat
+367,"If you come near me again, I will seriously hurt you Please take this message seriously in case 57.",not_sarcastic,fear,critical,threat
+368,He threatened to attack the person who reported him Please take this message seriously in case 58.,not_sarcastic,anger,high,threat
+369,Stop sending threats or I will report the messages to the authorities Please take this message seriously in case 59.,not_sarcastic,fear_anger,critical,threat
+370,"I am furious, but I will not hurt anyone; I will handle this through proper channels Please take this message seriously in case 60.",not_sarcastic,relief,critical,threat
+371,Someone sent a message threatening violence against the team Please take this message seriously in case 61.,not_sarcastic,fear,high,threat
+372,Do not threaten me; we can resolve this disagreement peacefully Please take this message seriously in case 62.,not_sarcastic,anger,critical,threat
+373,He said he would harm the group if they refused to cooperate Please take this message seriously in case 63.,not_sarcastic,fear_anger,critical,threat
+374,I was frightened by the threatening message I received yesterday Please take this message seriously in case 64.,not_sarcastic,relief,high,threat
+375,"If you come near me again, I will seriously hurt you Please take this message seriously in case 65.",not_sarcastic,fear,critical,threat
+376,He threatened to attack the person who reported him Please take this message seriously in case 66.,not_sarcastic,anger,critical,threat
+377,Stop sending threats or I will report the messages to the authorities Please take this message seriously in case 67.,not_sarcastic,fear_anger,high,threat
+378,"I am furious, but I will not hurt anyone; I will handle this through proper channels Please take this message seriously in case 68.",not_sarcastic,relief,critical,threat
+379,Someone sent a message threatening violence against the team Please take this message seriously in case 69.,not_sarcastic,fear,critical,threat
+380,Do not threaten me; we can resolve this disagreement peacefully Please take this message seriously in case 70.,not_sarcastic,anger,high,threat
+381,He said he would harm the group if they refused to cooperate Please take this message seriously in case 71.,not_sarcastic,fear_anger,critical,threat
+382,I was frightened by the threatening message I received yesterday Please take this message seriously in case 72.,not_sarcastic,relief,critical,threat
+383,"If you come near me again, I will seriously hurt you Please take this message seriously in case 73.",not_sarcastic,fear,high,threat
+384,He threatened to attack the person who reported him Please take this message seriously in case 74.,not_sarcastic,anger,critical,threat
+385,Stop sending threats or I will report the messages to the authorities Please take this message seriously in case 75.,not_sarcastic,fear_anger,critical,threat
+386,"I am furious, but I will not hurt anyone; I will handle this through proper channels Please take this message seriously in case 76.",not_sarcastic,relief,high,threat
+387,Someone sent a message threatening violence against the team Please take this message seriously in case 77.,not_sarcastic,fear,critical,threat
+388,Do not threaten me; we can resolve this disagreement peacefully Please take this message seriously in case 78.,not_sarcastic,anger,critical,threat
+389,He said he would harm the group if they refused to cooperate Please take this message seriously in case 79.,not_sarcastic,fear_anger,high,threat
+390,I was frightened by the threatening message I received yesterday Please take this message seriously in case 80.,not_sarcastic,relief,critical,threat
+391,You are completely useless and nobody wants you on this team.,not_sarcastic,anger,high,toxic
+392,Stop insulting people and spreading hateful comments online.,not_sarcastic,disgust,medium,toxic
+393,That comment was abusive and unnecessarily hostile.,not_sarcastic,frustration,medium,toxic
+394,"I strongly disagree with you, but there is no reason to attack you personally.",not_sarcastic,disappointment,medium,safe
+395,The conversation became toxic after several insulting messages.,not_sarcastic,anger,high,toxic
+396,Calling someone worthless does not help solve the disagreement.,not_sarcastic,disgust,medium,safe
+397,Please stop harassing other users in the discussion.,not_sarcastic,frustration,medium,toxic
+398,The message contains offensive language directed at another person.,not_sarcastic,disappointment,medium,toxic
+399,You are completely useless and nobody wants you on this team This behavior is unacceptable in example 9.,not_sarcastic,anger,high,toxic
+400,Stop insulting people and spreading hateful comments online This behavior is unacceptable in example 10.,not_sarcastic,disgust,medium,toxic
+401,That comment was abusive and unnecessarily hostile This behavior is unacceptable in example 11.,not_sarcastic,frustration,medium,toxic
+402,"I strongly disagree with you, but there is no reason to attack you personally This behavior is unacceptable in example 12.",not_sarcastic,disappointment,medium,safe
+403,The conversation became toxic after several insulting messages This behavior is unacceptable in example 13.,not_sarcastic,anger,high,toxic
+404,Calling someone worthless does not help solve the disagreement This behavior is unacceptable in example 14.,not_sarcastic,disgust,medium,safe
+405,Please stop harassing other users in the discussion This behavior is unacceptable in example 15.,not_sarcastic,frustration,medium,toxic
+406,The message contains offensive language directed at another person This behavior is unacceptable in example 16.,not_sarcastic,disappointment,medium,toxic
+407,You are completely useless and nobody wants you on this team This behavior is unacceptable in example 17.,not_sarcastic,anger,high,toxic
+408,Stop insulting people and spreading hateful comments online This behavior is unacceptable in example 18.,not_sarcastic,disgust,medium,toxic
+409,That comment was abusive and unnecessarily hostile This behavior is unacceptable in example 19.,not_sarcastic,frustration,medium,toxic
+410,"I strongly disagree with you, but there is no reason to attack you personally This behavior is unacceptable in example 20.",not_sarcastic,disappointment,medium,safe
+411,The conversation became toxic after several insulting messages This behavior is unacceptable in example 21.,not_sarcastic,anger,high,toxic
+412,Calling someone worthless does not help solve the disagreement This behavior is unacceptable in example 22.,not_sarcastic,disgust,medium,safe
+413,Please stop harassing other users in the discussion This behavior is unacceptable in example 23.,not_sarcastic,frustration,medium,toxic
+414,The message contains offensive language directed at another person This behavior is unacceptable in example 24.,not_sarcastic,disappointment,medium,toxic
+415,You are completely useless and nobody wants you on this team This behavior is unacceptable in example 25.,not_sarcastic,anger,high,toxic
+416,Stop insulting people and spreading hateful comments online This behavior is unacceptable in example 26.,not_sarcastic,disgust,medium,toxic
+417,That comment was abusive and unnecessarily hostile This behavior is unacceptable in example 27.,not_sarcastic,frustration,medium,toxic
+418,"I strongly disagree with you, but there is no reason to attack you personally This behavior is unacceptable in example 28.",not_sarcastic,disappointment,medium,safe
+419,The conversation became toxic after several insulting messages This behavior is unacceptable in example 29.,not_sarcastic,anger,high,toxic
+420,Calling someone worthless does not help solve the disagreement This behavior is unacceptable in example 30.,not_sarcastic,disgust,medium,safe
+421,Please stop harassing other users in the discussion This behavior is unacceptable in example 31.,not_sarcastic,frustration,medium,toxic
+422,The message contains offensive language directed at another person This behavior is unacceptable in example 32.,not_sarcastic,disappointment,medium,toxic
+423,You are completely useless and nobody wants you on this team This behavior is unacceptable in example 33.,not_sarcastic,anger,high,toxic
+424,Stop insulting people and spreading hateful comments online This behavior is unacceptable in example 34.,not_sarcastic,disgust,medium,toxic
+425,That comment was abusive and unnecessarily hostile This behavior is unacceptable in example 35.,not_sarcastic,frustration,medium,toxic
+426,"I strongly disagree with you, but there is no reason to attack you personally This behavior is unacceptable in example 36.",not_sarcastic,disappointment,medium,safe
+427,The conversation became toxic after several insulting messages This behavior is unacceptable in example 37.,not_sarcastic,anger,high,toxic
+428,Calling someone worthless does not help solve the disagreement This behavior is unacceptable in example 38.,not_sarcastic,disgust,medium,safe
+429,Please stop harassing other users in the discussion This behavior is unacceptable in example 39.,not_sarcastic,frustration,medium,toxic
+430,The message contains offensive language directed at another person This behavior is unacceptable in example 40.,not_sarcastic,disappointment,medium,toxic
+431,You are completely useless and nobody wants you on this team This behavior is unacceptable in example 41.,not_sarcastic,anger,high,toxic
+432,Stop insulting people and spreading hateful comments online This behavior is unacceptable in example 42.,not_sarcastic,disgust,medium,toxic
+433,That comment was abusive and unnecessarily hostile This behavior is unacceptable in example 43.,not_sarcastic,frustration,medium,toxic
+434,"I strongly disagree with you, but there is no reason to attack you personally This behavior is unacceptable in example 44.",not_sarcastic,disappointment,medium,safe
+435,The conversation became toxic after several insulting messages This behavior is unacceptable in example 45.,not_sarcastic,anger,high,toxic
+436,Calling someone worthless does not help solve the disagreement This behavior is unacceptable in example 46.,not_sarcastic,disgust,medium,safe
+437,Please stop harassing other users in the discussion This behavior is unacceptable in example 47.,not_sarcastic,frustration,medium,toxic
+438,The message contains offensive language directed at another person This behavior is unacceptable in example 48.,not_sarcastic,disappointment,medium,toxic
+439,You are completely useless and nobody wants you on this team This behavior is unacceptable in example 49.,not_sarcastic,anger,high,toxic
+440,Stop insulting people and spreading hateful comments online This behavior is unacceptable in example 50.,not_sarcastic,disgust,medium,toxic
+441,That comment was abusive and unnecessarily hostile This behavior is unacceptable in example 51.,not_sarcastic,frustration,medium,toxic
+442,"I strongly disagree with you, but there is no reason to attack you personally This behavior is unacceptable in example 52.",not_sarcastic,disappointment,medium,safe
+443,The conversation became toxic after several insulting messages This behavior is unacceptable in example 53.,not_sarcastic,anger,high,toxic
+444,Calling someone worthless does not help solve the disagreement This behavior is unacceptable in example 54.,not_sarcastic,disgust,medium,safe
+445,Please stop harassing other users in the discussion This behavior is unacceptable in example 55.,not_sarcastic,frustration,medium,toxic
+446,The message contains offensive language directed at another person This behavior is unacceptable in example 56.,not_sarcastic,disappointment,medium,toxic
+447,You are completely useless and nobody wants you on this team This behavior is unacceptable in example 57.,not_sarcastic,anger,high,toxic
+448,Stop insulting people and spreading hateful comments online This behavior is unacceptable in example 58.,not_sarcastic,disgust,medium,toxic
+449,That comment was abusive and unnecessarily hostile This behavior is unacceptable in example 59.,not_sarcastic,frustration,medium,toxic
+450,"I strongly disagree with you, but there is no reason to attack you personally This behavior is unacceptable in example 60.",not_sarcastic,disappointment,medium,safe
+451,The conversation became toxic after several insulting messages This behavior is unacceptable in example 61.,not_sarcastic,anger,high,toxic
+452,Calling someone worthless does not help solve the disagreement This behavior is unacceptable in example 62.,not_sarcastic,disgust,medium,safe
+453,Please stop harassing other users in the discussion This behavior is unacceptable in example 63.,not_sarcastic,frustration,medium,toxic
+454,The message contains offensive language directed at another person This behavior is unacceptable in example 64.,not_sarcastic,disappointment,medium,toxic
+455,You are completely useless and nobody wants you on this team This behavior is unacceptable in example 65.,not_sarcastic,anger,high,toxic
+456,Stop insulting people and spreading hateful comments online This behavior is unacceptable in example 66.,not_sarcastic,disgust,medium,toxic
+457,That comment was abusive and unnecessarily hostile This behavior is unacceptable in example 67.,not_sarcastic,frustration,medium,toxic
+458,"I strongly disagree with you, but there is no reason to attack you personally This behavior is unacceptable in example 68.",not_sarcastic,disappointment,medium,safe
+459,The conversation became toxic after several insulting messages This behavior is unacceptable in example 69.,not_sarcastic,anger,high,toxic
+460,Calling someone worthless does not help solve the disagreement This behavior is unacceptable in example 70.,not_sarcastic,disgust,medium,safe
+461,Please stop harassing other users in the discussion This behavior is unacceptable in example 71.,not_sarcastic,frustration,medium,toxic
+462,The message contains offensive language directed at another person This behavior is unacceptable in example 72.,not_sarcastic,disappointment,medium,toxic
+463,You are completely useless and nobody wants you on this team This behavior is unacceptable in example 73.,not_sarcastic,anger,high,toxic
+464,Stop insulting people and spreading hateful comments online This behavior is unacceptable in example 74.,not_sarcastic,disgust,medium,toxic
+465,That comment was abusive and unnecessarily hostile This behavior is unacceptable in example 75.,not_sarcastic,frustration,medium,toxic
+466,"I strongly disagree with you, but there is no reason to attack you personally This behavior is unacceptable in example 76.",not_sarcastic,disappointment,medium,safe
+467,The conversation became toxic after several insulting messages This behavior is unacceptable in example 77.,not_sarcastic,anger,high,toxic
+468,Calling someone worthless does not help solve the disagreement This behavior is unacceptable in example 78.,not_sarcastic,disgust,medium,safe
+469,Please stop harassing other users in the discussion This behavior is unacceptable in example 79.,not_sarcastic,frustration,medium,toxic
+470,The message contains offensive language directed at another person This behavior is unacceptable in example 80.,not_sarcastic,disappointment,medium,toxic
+471,I'm delighted that you submitted the wrong file again (test variation 1),sarcastic,joy_frustration,low,sarcasm
+472,"Wonderful, the one feature we needed stopped working today (test variation 2)",sarcastic,humor_frustration,medium,sarcasm
+473,I am thrilled that our deadline was moved earlier with no warning (test variation 3),sarcastic,joy_anxiety,low,sarcasm
+474,"Thanks, your brilliant shortcut caused three new bugs (test variation 4)",sarcastic,gratitude_anger,medium,sarcasm
+475,"What a relief, the demo failed exactly as planned (test variation 5)",sarcastic,relief_disappointment,medium,sarcasm
+476,I feel proud and disappointed at the same time after seeing the final result (test variation 6),not_sarcastic,pride_disappointment,low,safe
+477,"I am angry about the delay, yet happy that we finally found the cause (test variation 7)",not_sarcastic,anger_joy,low,safe
+478,"I was afraid the system would fail, but I am relieved that the tests passed (test variation 8)",not_sarcastic,fear_relief,low,safe
+479,"I am sad that the project is ending, but excited about what comes next (test variation 9)",not_sarcastic,sadness_anticipation,low,safe
+480,I am frustrated by the mistake and grateful that my teammate fixed it (test variation 10),not_sarcastic,frustration_gratitude,low,safe
+481,"Maga, super timing, presentation start aagovaga server down madbitte (test variation 11)",sarcastic,frustration_humor,medium,sarcasm
+482,"Bhai, wah kya planning hai, deadline ke ek din pehle file delete kar di (test variation 12)",sarcastic,anger_humor,medium,sarcasm
+483,"Avanu backup delete maadidane, but I am trying to stay calm (test variation 13)",not_sarcastic,anger_control,medium,safe
+484,"I am scared by the message, but I will report it instead of responding with violence (test variation 14)",not_sarcastic,fear_confidence,high,threat
+485,"He threatened to hurt me, and I am worried about my safety (test variation 15)",not_sarcastic,fear_anxiety,critical,threat
+486,The message threatens violence against the group and should be reported (test variation 16),not_sarcastic,fear_anger,critical,threat
+487,Do not threaten anyone; disagreements should be handled peacefully (test variation 17),not_sarcastic,concern,high,threat
+488,"Someone sent a threatening message, which made the team anxious (test variation 18)",not_sarcastic,fear_anxiety,critical,threat
+489,Your comment is insulting and makes the discussion unnecessarily hostile (test variation 19),not_sarcastic,anger_disgust,medium,toxic
+490,Stop harassing people online and discuss the issue respectfully (test variation 20),not_sarcastic,anger_control,medium,toxic
+491,That hateful comment made several people uncomfortable (test variation 21),not_sarcastic,disgust_sadness,medium,toxic
+492,Calling someone worthless is abusive and does not solve anything (test variation 22),not_sarcastic,anger_disgust,medium,toxic
+493,"I disagree strongly, but I will explain my point without insulting anyone (test variation 23)",not_sarcastic,anger_control,low,safe
+494,"Amazing, another bug appeared immediately after your 'perfect' fix (test variation 24)",sarcastic,humor_frustration,medium,sarcasm
+495,"Clearly, breaking production was exactly what our deployment needed (test variation 25)",sarcastic,humor_anger,medium,sarcasm
+496,I love how the application waits until the demo to stop responding (test variation 26),sarcastic,humor_frustration,medium,sarcasm
+497,"Fantastic, you ignored the backup policy and now everyone is surprised (test variation 27)",sarcastic,anger_disappointment,medium,sarcasm
+498,"I am happy we finished, exhausted from the work, and proud of the team (test variation 28)",not_sarcastic,joy_exhaustion_pride,low,safe
+499,I feel nervous about tomorrow but confident enough to face it (test variation 29),not_sarcastic,fear_confidence,low,safe
+500,"I am disappointed by the score, but motivated to improve next time (test variation 30)",not_sarcastic,disappointment_motivation,low,safe

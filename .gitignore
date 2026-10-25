@@ -1,0 +1,21 @@
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+frontend/node_modules/
+frontend/.cache/
+frontend/build/
+frontend/dist/
+
+uploads/
+.env
+.env.*
+!.env.example
+.vscode/
+
+# Downloaded or generated model artifacts
+models/microsoft_deberta/model.safetensors
+models/trained_sarcasm_pipeline.joblib
+models/training_report.json
